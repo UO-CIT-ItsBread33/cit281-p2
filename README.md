@@ -13,6 +13,8 @@
 - This project also introduced us to VsCode Source Control, which can be used for Git.
 - Gave us practice for refactoring code.
 
-### Outcome pics: 
+### Outcome pics:
+
+![output](outputP2.png)
 
 ### [**Back to home page**](https://uo-cit-itsbread33.github.io/ItsBread33.github.io/)
